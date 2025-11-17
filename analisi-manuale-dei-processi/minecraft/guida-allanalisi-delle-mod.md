@@ -47,7 +47,8 @@ Analizza **ogni singolo file `.jar`** presente nella cartella `mods` attiva.
 * Usa un decompilatore Java come **Luyten** o **Recaf** per ispezionare il codice delle mod sospette. Trascina semplicemente il file `.jar` nel programma.
 * **Cosa cercare:**
   * **Nomi Sospetti:** Cerca classi o pacchetti con nomi che suggeriscono cheat (es. `autoclicker`, `reach`, `killaura`, `selfdestruct`).
-  * **Offuscamento (Obfuscation):** Questo è un indicatore quasi certo di un cheat. L'offuscamento rende il codice illeggibile per nascondere funzionalità malevole. Si presenta con nomi di classi e metodi privi di senso, spesso con singole lettere (es. `a.class`, `b.class`) o stringhe casuali. \{% hint style="warning" %\} **L'offuscamento è un Red Flag.** Poiché è impossibile verificare rapidamente la sicurezza di un codice offuscato, molti server hanno una politica di **tolleranza zero** e sanzionano la presenza di mod offuscate. \{% endhint %\}
+  * **Offuscamento (Obfuscation):** Questo è un indicatore quasi certo di un cheat. L'offuscamento rende il codice illeggibile per nascondere funzionalità malevole. Si presenta con nomi di classi e metodi privi di senso, spesso con singole lettere (es. `a.class`, `b.class`) o stringhe casuali. \
+    **L'offuscamento è un Red Flag.** Poiché è impossibile verificare rapidamente la sicurezza di un codice offuscato, molti server hanno una politica di **tolleranza zero** e sanzionano la presenza di mod offuscate.
 
 **4. Verifica dell'Integrità (Controllo Hash con HashMyFiles)**
 
