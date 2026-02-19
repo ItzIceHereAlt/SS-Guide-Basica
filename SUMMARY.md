@@ -26,6 +26,6 @@
 * [Processi Chiave da Analizzare](analisi-manuale-dei-processi/processi-chiave-da-analizzare.md)
 * [Analisi delle Firme con Paths Parser (spokwn)](analisi-manuale-dei-processi/analisi-delle-firme-con-paths-parser-spokwn.md)
 * [Analisi della Memoria Kernel con Kernel Live Dump Analyzer (spokwn)](analisi-manuale-dei-processi/analisi-della-memoria-kernel-con-kernel-live-dump-analyzer-spokwn.md)
-* Minecraft
+* [Minecraft](analisi-manuale-dei-processi/minecraft/README.md)
   * [Trovare la Cartella .minecraft Corretta](analisi-manuale-dei-processi/minecraft/trovare-la-cartella-.minecraft-corretta.md)
   * [Guida all'Analisi delle Mod](analisi-manuale-dei-processi/minecraft/guida-allanalisi-delle-mod.md)
