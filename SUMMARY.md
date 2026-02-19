@@ -9,7 +9,8 @@
   * [WinPrefetchView](analisi-degli-artefatti-di-esecuzione/prefetch-la-prova-desecuzione/winprefetchview.md)
 * [BAM - Tracciare le Attività Recenti](analisi-degli-artefatti-di-esecuzione/bam-tracciare-le-attivita-recenti/README.md)
   * [BAM Parser (spokwn)](analisi-degli-artefatti-di-esecuzione/bam-tracciare-le-attivita-recenti/bam-parser-spokwn.md)
-* [Nvidia Control Panel - La Memoria della GPU](analisi-degli-artefatti-di-esecuzione/nvidia-control-panel-la-memoria-della-gpu.md)
+* [Nvidia Control Panel - La Memoria della GPU](analisi-degli-artefatti-di-esecuzione/nvidia-control-panel-la-memoria-della-gpu/README.md)
+  * [Analisi della Cache Nvidia](analisi-degli-artefatti-di-esecuzione/nvidia-control-panel-la-memoria-della-gpu/analisi-della-cache-nvidia.md)
 * [Cenni su Altri Artefatti](analisi-degli-artefatti-di-esecuzione/cenni-su-altri-artefatti.md)
 
 ## Analisi del File System
